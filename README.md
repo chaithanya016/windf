@@ -4,7 +4,7 @@ Web app that helps a UK utility's day-ahead desk (1) see the latest national win
 actually available when the D-1 purchase decision had to be made and (2) quantify how wrong that
 forecast tends to be. Scope: Elexon BMRS **FUELHH** (actual WIND) and **WINDFOR** (forecast), delivery days in **January 2026**.
 
-- **Live app:** `<https://windf-git-main-sher-20d6.vercel.app/>`
+- **Live app:** https://windf-git-main-sher-20d6.vercel.app/
 - **Demo video (unlisted):** `<ADD YOUTUBE URL>`
 
 > **AI disclosure:** this project was built with assistance from Claude (Anthropic) for code generation, design and documentation. All logic was reviewed and tested by the author.
