@@ -5,7 +5,7 @@ actually available when the D-1 purchase decision had to be made and (2) quantif
 forecast tends to be. Scope: Elexon BMRS **FUELHH** (actual WIND) and **WINDFOR** (forecast), delivery days in **January 2026**.
 
 - **Live app:** https://windf-git-main-sher-20d6.vercel.app/
-- **Demo video (unlisted):** https://youtu.be/Ho7Xjfx3Tw4?si=_a7pkd7Uq_z2F8Bl
+ 
 
 > **AI disclosure:** this project was built with assistance from Claude (Anthropic) for code generation, design and documentation. All logic was reviewed and tested by the author.
 
